@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+}
+
+.header {
+  margin: 0;
+  padding: 10px;
+  height: fit-content;
+  background: linear-gradient(0deg, #000000 0%, #333333 33%);
+}
+.header h2 {
+  margin: auto;
+}
+.header a {
+  text-decoration: none;
+}
+
+.title {
+  margin: auto;
+  width: 95%;
+  height: fit-content;
+  text-align: center;
+}
+
+.textRed {
+  color: #33ff33;
+}
+
+.textWhite {
+  color: #ffffff;
+}
